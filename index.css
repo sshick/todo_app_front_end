@@ -24,3 +24,12 @@ li{
     padding:5px;
     margin-bottom: 10px;
 }
+li{
+    display: inline;
+}
+a{
+    display: block;
+    padding: 8px;
+    background-color:#dddddd;
+}
+}
