@@ -2,12 +2,14 @@ h1{
     font-size:42px;
     color: #4B0082; 
 }
+
 html{
     border-style: solid;
     border-color:#4B0082;
     font-family: sans-serif;
     color: #B22222;
 }
+
 .todo{
     font-weight:bold;
     color:#8A2BE2;
@@ -20,16 +22,13 @@ html{
     font-size:25px;
     box-shadow:1px 1px 1px #90A4AE;
 }
+
 li{
     padding:5px;
     margin-bottom: 10px;
 }
-li{
-    display: inline;
-}
+
 a{
-    display: block;
     padding: 8px;
-    background-color:#dddddd;
-}
+    background-color:#ddddd;
 }
